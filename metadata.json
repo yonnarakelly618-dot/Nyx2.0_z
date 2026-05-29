@@ -1,0 +1,6 @@
+{
+  "name": "NYX Platinum",
+  "description": "Uma experiência altamente personalizada e emocional da assistente virtual Nyx Platinum, com histórico sagrado importado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
